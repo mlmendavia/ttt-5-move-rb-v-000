@@ -9,6 +9,8 @@ puts "Welcome to Tic Tac Toe!"
 
 board = [" ", " "," ", " "," ", " "," ", " ", " "]
 
+input = gets
+
 # def board(input)
 #   puts def display_board(board)
 #     puts "   |   |   "
