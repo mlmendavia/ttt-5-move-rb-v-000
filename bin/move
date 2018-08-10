@@ -10,7 +10,11 @@ board = [" ", " "," ", " "," ", " "," ", " ", " "]
 
 input = gets
 
-index = input_to_index(input)
+index = input_to_index(input) #this is the position
+
+move(board, index)
+
+
 
 # def board(input)
 #   puts def display_board(board)
