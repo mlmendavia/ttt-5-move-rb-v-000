@@ -7,7 +7,7 @@ require_relative '../lib/move.rb'
 puts "Welcome to Tic Tac Toe!"
 
 
-board = [" ", " "," ", " "," ", " "," ", " ",]
+board = [" ", " "," ", " "," ", " "," ", " ", " "]
 
 # def board(input)
 #   puts def display_board(board)
