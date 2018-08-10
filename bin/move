@@ -14,7 +14,7 @@ index = input_to_index(input) #this is the position
 
 move(board, index)
 
-display_board
+display_board(board)
 
 # def board(input)
 #   puts def display_board(board)
