@@ -17,7 +17,8 @@ def input_to_index (input)
   end
 
 def move(board, position, token="X")
-  board[position] = token 
+  board[position] = token
+  binding.pry
 end
 
   # update_array_at_with(board, 0, "X")
