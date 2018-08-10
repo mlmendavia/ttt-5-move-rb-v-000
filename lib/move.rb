@@ -16,7 +16,7 @@ def input_to_index (input)
     input.to_i - 1
   end
 
-def move
+def move(board, position, token)
 end
   # update_array_at_with(board, 0, "X")
 
